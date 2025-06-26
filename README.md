@@ -67,8 +67,8 @@ web-stanford (281,903 nodes, 2,312,497 edges)
 •	Kruskal: Valid MST: True, Total Cost: 79,076.72, Time: 12.6275s
 •	Prim: Valid MST: True, Total Cost: 62,036.38, Time: 634.4860s
 •	Borůvka: Valid MST: True, Total Cost: 79,076.72, Time: 23.0669s
-•	Reverse-Delete: (Not completed in output)
-•	Karger: (Not completed in output)
+•	Reverse-Delete: (Not completed, too big)
+•	Karger: (Not completed, too big)
 web-edu (3,031 nodes, 6,474 edges)
 •	Kruskal: Valid MST: True, Total Cost: 989.82, Time: 0.0171s
 •	Prim: Valid MST: True, Total Cost: 989.82, Time: 0.0416s
