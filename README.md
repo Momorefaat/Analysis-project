@@ -34,6 +34,7 @@ We implemented the following algorithms in Python:
 3.	Borůvka’s Algorithm: A parallelizable approach that connects components by selecting the smallest outgoing edge from each component until a single MST remains.
 4.	Reverse-Delete Algorithm: Starts with all edges and removes the largest ones while ensuring the graph remains connected.
 5.	Karger’s Algorithm: A randomized algorithm for finding the minimum cut by contracting edges until two nodes remain. Note: Despite being listed as an MST algorithm in the requirements, Karger’s is traditionally for minimum cuts, and we implemented it as such.
+
 Code Functionality
 The code processes the datasets and handles edge cases as follows:
 Graph Loading and Preprocessing (graph_utils.py)
