@@ -36,6 +36,7 @@ We implemented the following algorithms in Python:
 5.	Karger’s Algorithm: A randomized algorithm for finding the minimum cut by contracting edges until two nodes remain. Note: Despite being listed as an MST algorithm in the requirements, Karger’s is traditionally for minimum cuts, and we implemented it as such.
 
 Code Functionality
+
 The code processes the datasets and handles edge cases as follows:
 Graph Loading and Preprocessing (graph_utils.py)
 •	File Formats: Supports .mtx and .edges files from the Network Repository.
